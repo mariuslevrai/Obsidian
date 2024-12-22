@@ -4,7 +4,7 @@ Obsidian is only available on linux 🐧
 - x64 or x32 cpu
 - Linux distro with original linux kernel
 # Run
-- Install git with apt :
+- Run the binarie :
 ```bash
 ./run
 ```
